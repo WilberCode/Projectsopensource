@@ -17,7 +17,7 @@ public class PrimerClase {
     public static void main(String[] args) {
         
         
-        System.out.println("This is my first project in github");
+        System.out.println("This is my first project in github!");
         // TODO code application logic here
     }
     
